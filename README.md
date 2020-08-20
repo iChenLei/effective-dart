@@ -1,6 +1,3 @@
-
-![image](https://i.ooxx.ooo/2018/09/01/835d26d0eff2aabcb397b4db6163d16d.png)
-
 <p align="center">
                 <img src="https://jaywcjlove.github.io/sb/lang/chinese.svg" />
 		<img src="https://img.shields.io/badge/ComputerLanguage-dartlang-green.svg?style=flat-square"/>
